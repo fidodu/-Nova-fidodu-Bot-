@@ -118,8 +118,8 @@ export async function createInitialHelpMenu(client) {
         .setStyle(ButtonStyle.Danger);
 
     const supportButton = new ButtonBuilder()
-        .setLabel("Support Server")
-        .setURL("https://discord.gg/QnWNz2dKCE")
+        .setLabel("🌌 Nova Support")
+        .setURL("https://discord.gg/U4ZKTX5VuZ")
         .setStyle(ButtonStyle.Link);
 
     const selectRow = createSelectMenu(
