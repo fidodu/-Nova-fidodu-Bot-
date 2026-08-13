@@ -1,4 +1,4 @@
-# Contributing to TitanBot
+# Contributing to ⋆˚࿔ Nova Bot ⋆˚࿔
 
 Thank you for your interest in contributing to TitanBot! This guide covers local setup, project conventions, and what we look for in pull requests.
 
