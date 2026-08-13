@@ -39,7 +39,7 @@ If you found a problem in your self-hosted instance that appears to be due to mi
 - Contact info for follow-up.
 
 ## Incident reporting from self-hosted deployments
-If you operate a self-hosted TitanBot instance and suffer a security incident:
+If you operate a self-hosted ⋆˚࿔ Nova Bot ⋆˚࿔ instance and suffer a security incident:
 - Immediately rotate any exposed secrets (bot token, DB credentials, API keys).
 - Take a snapshot of logs/configuration for investigation (avoid sharing secrets).
 - If you need upstream help, file a private security advisory and include sanitized reproduction steps and the TitanBot version/commit.
